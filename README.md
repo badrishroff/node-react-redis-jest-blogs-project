@@ -20,7 +20,7 @@ Also, developers can perform unit/integrate testing on this project using Jest l
 3. The last npm install is done in client folder to install all the client dependencies.
 
 # Once all the installations(npm) are done, open dev.js(AdvancedNodeStarter/config/dev.js)
-# Create a Mongo instance in your system and paste your MongoURI in the dev.js -> mongoURI section.
+Create a Mongo instance in your system and paste your MongoURI in the dev.js -> mongoURI section.
 
 Finally, run "npm run dev" to start the server and the application
 Last but not least, if you want to run the Jest test (unit/integration testing) run "npm run test" in another terminal tab.
