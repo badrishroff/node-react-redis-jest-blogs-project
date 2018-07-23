@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "practive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "badri narayan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "webworker-threads": "^0.7.16"
+  }
+}
